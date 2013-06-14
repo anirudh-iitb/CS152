@@ -1,0 +1,2 @@
+Open the code sub-directory and run the file named "project.rkt" in drracket. The rest follows in a self-explanatory way.
+Please read How-To in the main-menu of the game before playing the game. The rules and methods of the game are aptly described in it.
